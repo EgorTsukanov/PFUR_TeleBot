@@ -1,2 +1,2 @@
 # PFUR_TeleBot
-Telegram bot for PFUR
+Telegram bot for PFUR university
